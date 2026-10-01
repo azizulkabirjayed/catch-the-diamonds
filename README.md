@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 # About The Project
-This project was developed as part of the CSE423(Computer Graphics) course [assignment](https://github.com/azizulkabirjayed/8-catch-the-diamonds/blob/180236c84784c6d83e95aa0f0a4b55c0f514c571/cse423_assignment02.pdf) at BRAC University.
+**Catch the Diamonds** is a 2D arcade game built with Python and OpenGL for the CSE423 (Computer Graphics) course [assignment](https://github.com/azizulkabirjayed/8-catch-the-diamonds/blob/180236c84784c6d83e95aa0f0a4b55c0f514c571/cse423_assignment02.pdf) at BRAC University. Diamonds of random colors fall from the top of the screen and you move a catcher left and right to collect them. The game gets harder over time as diamonds fall faster, and all shapes are drawn using a custom Midpoint Line Drawing Algorithm.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Built With
@@ -37,3 +37,24 @@ The project demo video is available to watch here: <a href="https://youtu.be/jRB
 | Left Click on Pause/Play Icon | Pause / Resume Game |
 | Left Click on Exit Icon | Exit Game |
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# How To Run
+
+Make sure you have **Python 3.x** and **pip** installed, then follow these steps:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/azizulkabirjayed/8-catch-the-diamonds.git
+cd 8-catch-the-diamonds
+
+# 2. Install dependencies
+pip install PyOpenGL PyOpenGL_accelerate
+
+# 3. Run the game
+python 22201665_section17_cse423_A02.py
+```
+
+The game window will open and you're good to go — see the [Controls](#controls) section below to start playing.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
