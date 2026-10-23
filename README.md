@@ -9,9 +9,7 @@
 * ![GLUT](https://img.shields.io/badge/GLUT-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Project Demo Video
-The project demo video is available to watch here: <a href="https://youtu.be/jRBdw4MglNY?si=VoUcHmVRzXq9V970">click here</a>.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 # Features
 * 2D OpenGL arcade game built with Python & PyOpenGL
@@ -55,6 +53,11 @@ python 22201665_section17_cse423_A02.py
 ```
 
 The game window will open and you're good to go — see the [Controls](#controls) section below to start playing.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+# Sample Visualizations
+![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/27c1bad112987dc9e101e5a6dd2d77526dca416f/8/1.png)
+![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/27c1bad112987dc9e101e5a6dd2d77526dca416f/8/2.png)
+![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/27c1bad112987dc9e101e5a6dd2d77526dca416f/8/3.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
