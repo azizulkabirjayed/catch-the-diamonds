@@ -57,7 +57,7 @@ The game window will open and you're good to go — see the [Controls](#controls
 
 
 # Sample Visualizations
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/27c1bad112987dc9e101e5a6dd2d77526dca416f/8/1.png)
-![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/27c1bad112987dc9e101e5a6dd2d77526dca416f/8/2.png)
-![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/27c1bad112987dc9e101e5a6dd2d77526dca416f/8/3.png)
+![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/27c1bad112987dc9e101e5a6dd2d77526dca416f/8/1.gif)
+![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/27c1bad112987dc9e101e5a6dd2d77526dca416f/8/2.gif)
+![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/27c1bad112987dc9e101e5a6dd2d77526dca416f/8/3.gif)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
