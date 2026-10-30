@@ -55,9 +55,10 @@ python 22201665_section17_cse423_A02.py
 The game window will open and you're good to go — see the [Controls](#controls) section below to start playing.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 # Sample Visualizations
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/27c1bad112987dc9e101e5a6dd2d77526dca416f/8/1.gif)
-![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/27c1bad112987dc9e101e5a6dd2d77526dca416f/8/2.gif)
-![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/27c1bad112987dc9e101e5a6dd2d77526dca416f/8/3.gif)
+![Visualization 1](./Images/1.gif)
+![Visualization 2](./Images/2.gif)
+![Visualization 3](./Images/3.gif)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
