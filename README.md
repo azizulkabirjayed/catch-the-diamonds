@@ -10,7 +10,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 # Features
 * 2D OpenGL arcade game built with Python & PyOpenGL
 * Smooth time-based animation using delta time
